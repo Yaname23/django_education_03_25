@@ -1,0 +1,63 @@
+Watching for file changes with StatReloader
+"GET /game/orel/ HTTP/1.1" 200 10
+"GET /game/orel/ HTTP/1.1" 200 10
+"GET /game/orel/ HTTP/1.1" 200 8
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2308
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2359
+Not Found: /game/home
+"GET /game/home HTTP/1.1" 404 3236
+C:\Документы\.GeekBrains\.Разработчик.Программист\Итоговая аттестация\pythonProjectDjango_GB\myproject\gameapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /game/home HTTP/1.1" 301 0
+"GET /game/home/ HTTP/1.1" 200 1839
+"GET /game/home/ HTTP/1.1" 200 1907
+"GET /game/home/ HTTP/1.1" 200 2014
+"GET /game/home/ HTTP/1.1" 200 1958
+"GET /game/home/ HTTP/1.1" 200 1663
+"GET /game/home/ HTTP/1.1" 200 1372
+"GET /game/home/ HTTP/1.1" 200 1915
+"GET /game/home/ HTTP/1.1" 200 2276
+"GET /game/home/ HTTP/1.1" 200 2484
+"GET /game/home/ HTTP/1.1" 200 1984
+"GET /game/home/ HTTP/1.1" 200 1899
+"GET /game/home/ HTTP/1.1" 200 2696
+"GET /game/home/ HTTP/1.1" 200 2547
+"GET /game/home/ HTTP/1.1" 200 2667
+"GET /game/home/ HTTP/1.1" 200 2229
+"GET /game/home/ HTTP/1.1" 200 2290
+"GET /game/about HTTP/1.1" 301 0
+"GET /game/about/ HTTP/1.1" 200 2240
+"GET /game/about/ HTTP/1.1" 200 1573
+"GET /game/about/ HTTP/1.1" 200 2310
+"GET /game/about/ HTTP/1.1" 200 2487
+"GET /game/about/ HTTP/1.1" 200 1880
+"GET /game/about/ HTTP/1.1" 200 1420
+"GET /game/about/ HTTP/1.1" 200 2215
+"GET /game/about/ HTTP/1.1" 200 2047
+"GET /game/about/ HTTP/1.1" 200 2419
+"GET /game/about/ HTTP/1.1" 200 1844
+"GET /game/about/ HTTP/1.1" 200 1995
+"GET /game/about/ HTTP/1.1" 200 1629
+"GET /game/about/ HTTP/1.1" 200 2964
+"GET /game/about/ HTTP/1.1" 200 1926
+"GET /game/about/ HTTP/1.1" 200 2306
+"GET /game/about/ HTTP/1.1" 200 3268
+"GET /game/about/ HTTP/1.1" 200 1655
+"GET /game/about/ HTTP/1.1" 200 2690
+"GET /game/about/ HTTP/1.1" 200 2569
+"GET /game/about/ HTTP/1.1" 200 2419
+"GET /game/about/ HTTP/1.1" 200 2856
+"GET /game/about/ HTTP/1.1" 200 2537
+"GET /game/about/ HTTP/1.1" 200 2390
+"GET /game/about/ HTTP/1.1" 200 3759
+"GET /game/about/ HTTP/1.1" 200 4145
+"GET /game/about/ HTTP/1.1" 200 2846
+"GET /game/about/ HTTP/1.1" 200 2553
+"GET /game/about/ HTTP/1.1" 200 3222
+"GET /game/about/ HTTP/1.1" 200 3166
+"GET /game/about/ HTTP/1.1" 200 3312
+"GET /game/about/ HTTP/1.1" 200 4305
+"GET /game/about/ HTTP/1.1" 200 3611
