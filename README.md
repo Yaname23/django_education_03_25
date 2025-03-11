@@ -1,0 +1,1 @@
+# django_education_03_25
